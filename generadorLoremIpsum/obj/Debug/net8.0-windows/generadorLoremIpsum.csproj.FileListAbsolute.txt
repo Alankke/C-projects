@@ -1,0 +1,18 @@
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\bin\Debug\net8.0-windows\generadorLoremIpsum.exe
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\bin\Debug\net8.0-windows\generadorLoremIpsum.deps.json
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\bin\Debug\net8.0-windows\generadorLoremIpsum.runtimeconfig.json
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\bin\Debug\net8.0-windows\generadorLoremIpsum.dll
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\bin\Debug\net8.0-windows\generadorLoremIpsum.pdb
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.csproj.GenerateResource.cache
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.AssemblyInfo.cs
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.dll
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\refint\generadorLoremIpsum.dll
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.pdb
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.genruntimeconfig.cache
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\ref\generadorLoremIpsum.dll
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\bin\Debug\net8.0-windows\assets\palabras lorem.txt
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.MainWindow.resources
+C:\Users\Alan\Documents\GitHub\C#\generadorLoremIpsum\obj\Debug\net8.0-windows\generadorLoremIpsum.Properties.Resources.resources
