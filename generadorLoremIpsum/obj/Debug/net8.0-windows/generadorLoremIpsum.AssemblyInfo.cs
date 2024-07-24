@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("generadorLoremIpsum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbdfb858176387d13c314c75523bb8cd9c05129f")]
 [assembly: System.Reflection.AssemblyProductAttribute("generadorLoremIpsum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("generadorLoremIpsum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

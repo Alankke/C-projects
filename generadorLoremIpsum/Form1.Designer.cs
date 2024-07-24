@@ -38,6 +38,10 @@ namespace generadorLoremIpsum
             generatedTextRichTextBox = new RichTextBox();
             saveFileButton = new Button();
             generateButton = new Button();
+            wordsQuantity = new Label();
+            wordsLabel = new Label();
+            charactersLabel = new Label();
+            charactersQuantity = new Label();
             parametersGroupBox.SuspendLayout();
             SuspendLayout();
             // 
@@ -145,12 +149,50 @@ namespace generadorLoremIpsum
             generateButton.UseWaitCursor = true;
             generateButton.Click += generateButton_Click;
             // 
+            // wordsQuantity
+            // 
+            wordsQuantity.AutoSize = true;
+            wordsQuantity.Location = new Point(84, 421);
+            wordsQuantity.Name = "wordsQuantity";
+            wordsQuantity.Size = new Size(0, 20);
+            wordsQuantity.TabIndex = 9;
+            // 
+            // wordsLabel
+            // 
+            wordsLabel.AutoSize = true;
+            wordsLabel.Location = new Point(18, 421);
+            wordsLabel.Name = "wordsLabel";
+            wordsLabel.Size = new Size(66, 20);
+            wordsLabel.TabIndex = 10;
+            wordsLabel.Text = "palabras";
+            // 
+            // charactersLabel
+            // 
+            charactersLabel.AutoSize = true;
+            charactersLabel.Location = new Point(119, 421);
+            charactersLabel.Name = "charactersLabel";
+            charactersLabel.Size = new Size(76, 20);
+            charactersLabel.TabIndex = 14;
+            charactersLabel.Text = "caracteres";
+            // 
+            // charactersQuantity
+            // 
+            charactersQuantity.AutoSize = true;
+            charactersQuantity.Location = new Point(201, 421);
+            charactersQuantity.Name = "charactersQuantity";
+            charactersQuantity.Size = new Size(0, 20);
+            charactersQuantity.TabIndex = 13;
+            // 
             // MainWindow
             // 
             AcceptButton = generateButton;
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(charactersLabel);
+            Controls.Add(charactersQuantity);
+            Controls.Add(wordsLabel);
+            Controls.Add(wordsQuantity);
             Controls.Add(generateButton);
             Controls.Add(saveFileButton);
             Controls.Add(generatedTextRichTextBox);
@@ -177,5 +219,9 @@ namespace generadorLoremIpsum
         private RichTextBox generatedTextRichTextBox;
         private Button saveFileButton;
         private Button generateButton;
+        private Label wordsQuantity;
+        private Label wordsLabel;
+        private Label charactersLabel;
+        private Label charactersQuantity;
     }
 }

@@ -22,13 +22,15 @@ namespace generadorLoremIpsum
             }
 
             Generator.GenerationMode mode = wordRadioButton.Checked ? Generator.GenerationMode.Words : Generator.GenerationMode.Paragraphs;
-            
+
 
             try
             {
                 string generatedText = Generator.GenerateLorem(quantity, mode, startWithCheckBox.Checked);
                 generatedTextRichTextBox.Clear();
                 generatedTextRichTextBox.Text = generatedText;
+                wordsQuantity.Text = Generator.countWords(generatedText).ToString();
+                charactersQuantity.Text = Generator.countCharacters(generatedText).ToString();
             }
             catch (Exception exception)
             {

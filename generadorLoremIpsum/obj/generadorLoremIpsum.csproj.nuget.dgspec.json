@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alan\\Documents\\GitHub\\C#\\generadorLoremIpsum\\generadorLoremIpsum.csproj": {}
+    "C:\\Users\\Alan\\Documents\\GitHub\\Csharp-projects\\generadorLoremIpsum\\generadorLoremIpsum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alan\\Documents\\GitHub\\C#\\generadorLoremIpsum\\generadorLoremIpsum.csproj": {
+    "C:\\Users\\Alan\\Documents\\GitHub\\Csharp-projects\\generadorLoremIpsum\\generadorLoremIpsum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alan\\Documents\\GitHub\\C#\\generadorLoremIpsum\\generadorLoremIpsum.csproj",
+        "projectUniqueName": "C:\\Users\\Alan\\Documents\\GitHub\\Csharp-projects\\generadorLoremIpsum\\generadorLoremIpsum.csproj",
         "projectName": "generadorLoremIpsum",
-        "projectPath": "C:\\Users\\Alan\\Documents\\GitHub\\C#\\generadorLoremIpsum\\generadorLoremIpsum.csproj",
+        "projectPath": "C:\\Users\\Alan\\Documents\\GitHub\\Csharp-projects\\generadorLoremIpsum\\generadorLoremIpsum.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alan\\Documents\\GitHub\\C#\\generadorLoremIpsum\\obj\\",
+        "outputPath": "C:\\Users\\Alan\\Documents\\GitHub\\Csharp-projects\\generadorLoremIpsum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config",

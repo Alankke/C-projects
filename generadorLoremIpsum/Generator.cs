@@ -91,5 +91,17 @@ namespace generadorLoremIpsum
 
             return paragraphBuilder.ToString().TrimEnd();
         }
+
+        public static int countCharacters(string generatedText)
+        {
+            return generatedText.Length;
+        }
+
+        public static int countWords(string generatedText)
+        {
+            string[] words = generatedText.Split(' ');
+            return words.Length;
+
+        }
     }
 }
